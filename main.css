@@ -1,0 +1,58 @@
+/* ELEMENTS */
+
+body {
+	background-color: #9ebcdb;
+	font-family: Verdana, Arial, sans-serif;
+}
+
+table {
+	border-spacing: 0px;
+	width: 900px;
+}
+
+#footer {
+	background-color: #006ddb;
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+#header_logo img {
+	width: 75px;
+	height: 75px;
+	padding-left: 25px;
+	padding-right: 25px;
+}
+
+#header_title {
+	background-color: #FFFFFF;
+	color: #DE1116;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-right: 10px;
+	text-align: left;
+	width: 800px;
+}
+
+#main_title {
+	background-color: #006ddb;
+	text-align: center;
+}
+
+#main_body {
+	vertical-align: top;
+	text-align: center;
+	height: 200px;
+	padding-top: 20px;
+	background-color: #dee9f4;
+}
+
+#wrapper {
+	background-color: #FFFFFF; 
+	width: 80%;
+	height: 80%;
+	width: 900px;
+	margin: auto;
+	box-shadow: 5px 5px 5px #000000; 
+}
+
